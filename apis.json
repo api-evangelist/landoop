@@ -1,0 +1,59 @@
+{
+    "name": "Landoop",
+    "description": "<p>At Landoop we help you join the fast data streaming revolution. We have a strong big and fast data culture, and highly focused on Apache Kafka, we are making solutions that aim to simplify your interaction with a complex stack.&nbsp; Streaming Data Pipelines at their best: Kafka native and Kubernets native. We help engineers understand their platform. We help companies join the streaming world.&nbsp; We focus on technology and products that streamline your data pipelines, connect with external systems, easily manage your cluster and zoom into it!<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28195-www-landoop-com.jpg",
+    "tags": [
+        "api provider",
+        "data",
+        "have api",
+        "internet of things",
+        "kafka"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/landoop\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Landoop",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28195-www-landoop-com.jpg",
+            "humanURL": "http:\/\/www.landoop.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/landoop-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.landoop.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.landoop.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/landoop"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Landoop"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LandoopLtd"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.landoop.com"
+        }
+    ]
+}
